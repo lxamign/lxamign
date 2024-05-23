@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lxamign
+- 👋 Hi, I’m @vanilla
 - 👀 I’m interested in ...AI and tech products
 - 🌱 I’m currently learning ...LLMs
 - 💞️ I’m looking to collaborate on ...hackathons to create cool stuff 
-- 📫 How to reach me ...mail to : lxamign@gmail.com
+- 📫 How to reach me ...mail to : bumfuzzlex@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I can read anything...literally anything. 
 
