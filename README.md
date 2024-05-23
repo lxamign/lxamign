@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanilla
+- 👋 Hi, I’m @lxamign
 - 👀 I’m interested in ...AI and tech products
 - 🌱 I’m currently learning ...LLMs
 - 💞️ I’m looking to collaborate on ...hackathons to create cool stuff 
